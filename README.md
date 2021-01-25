@@ -1,6 +1,4 @@
-# Pre-work - *Name of App Here*
-
-**Name of your app** is a tip calculator application for iOS.
+# Pre-work - *Tip Calculator Application for iOS*
 
 Submitted by: **Tre'Vante Ligon**
 
@@ -38,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Tre'Vante Ligon]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
