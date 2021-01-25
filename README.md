@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-This was my first time creating an app. I kept getting errors =, but eventually I got it to pull together.
+This was my first time creating an app. I kept getting errors , but eventually I got it to pull together.
 
 ## License
 
